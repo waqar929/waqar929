@@ -43,6 +43,7 @@ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqar929&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqar929&layout=compact&theme=github_dark)
+
 Goals for 2026
 
 * Build 10+ Machine Learning Projects
